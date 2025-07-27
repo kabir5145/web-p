@@ -1,3 +1,15 @@
 body{
     background-color: cornflowerblue;
 }
+form{
+    background-color: yellow;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(17, 10, 10, 0.1);
+}
+option{
+    background-color: black;
+    color: white;
+}
